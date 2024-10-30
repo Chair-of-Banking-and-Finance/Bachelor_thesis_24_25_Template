@@ -41,6 +41,7 @@ We will use the following methodologies:
 
 ## Tools and Technologies
 
+- **RAG Codes**: GitHub will contain RAG-codes to query LLMs (Llama, Gemini, GPT) for creating benchmarks.
 - **Programming Languages**: Python, R.
 - **Collaboration Tools**: GitHub, Google Drive.
 - **Data Analysis Tools**: Pandas, NumPy, Excel.
@@ -65,8 +66,6 @@ Bachelor students are encouraged to contribute by:
 For more information or any questions, feel free to contact [name or email]. We’re excited to have you on board!
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 This project will be conducted at the Chair of Banking and Finance at Goethe University Frankfurt.
 
