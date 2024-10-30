@@ -1,81 +1,76 @@
-# Analyst Information Extraction Questionnaire
+# Research Project: Assessing the Quality of Financial Analysts
 
-This project aims to create a questionnaire to evaluate whether analysts effectively extract relevant information from various types of documents, such as earnings calls or SEC filings. The following step-by-step plan outlines how to design, pilot, and analyze the questionnaire to gather valuable insights into analysts' information extraction processes.
+## Overview
+
+Welcome to the "Assessing the Quality of Financial Analysts" research project! Students will work alone, creating different questionnaires for different industries and document types. They will be provided with the necessary documents and informed about the industry they will be analyzing. This project will be conducted at the Chair of Banking and Finance at Goethe University Frankfurt. This project is focused on creating a questionnaire to assess the quality of a financial analyst, similar to the CFA. The questions will evaluate how well an analyst can extract relevant information from given data, which could include single choice, multiple choice, or free text responses. The questionnaire must be verified to ensure its reliability. To achieve this, students will use different document types (e.g., Analyst Reports, Earnings Call Transcripts, 10-K or SEC files) as sources for the questions.
+
+After creating the questionnaire, students will have different large language models (LLMs), such as ChatGPT, Gemini, and Llama, answer the questions based on the given documents. They will then assess the accuracy of these LLMs and benchmark them against each other for comparison.
 
 ## Objectives
-- Determine how effectively analysts extract relevant information from different document types.
-- Identify differences in the extraction processes for specific documents (e.g., earnings calls, SEC filings).
-- Assess factors that influence analysts' abilities (e.g., experience, tools used, industry familiarity).
 
-## Step-by-Step Plan
+The primary objectives of this research project are:
 
-### Step 1: Define Objectives
-Clearly outline the goals of the questionnaire, focusing on understanding analysts' information extraction abilities and identifying influencing factors.
+1. **Create** a questionnaire to assess the quality of a financial analyst in extracting relevant information from given data.
+2. **Verify** the reliability and validity of the questionnaire using various document types.
+3. **Evaluate** the performance of different LLMs in answering the questionnaire and **benchmark** their accuracy against each other.
 
-### Step 2: Identify Key Information Categories
-Break down document types into relevant information categories:
-- **Earnings Calls**: Key financial metrics, forward guidance, management tone, etc.
-- **SEC Filings**: Compliance information, risk disclosures, financial ratios, executive compensation, etc.
+## Scope
 
-### Step 3: Design the Questionnaire Structure
-Design the questionnaire with the following sections:
-1. **Demographics and Background**: Analyst experience, industry focus, tools used.
-2. **Document Familiarity and Usage**: Familiarity with document types and frequency of use.
-3. **Information Extraction Evaluation**: Areas of information that analysts focus on.
-4. **Effectiveness and Challenges**: Analysts' perceived effectiveness and challenges faced.
-5. **Open-ended Insights**: Additional comments or suggestions.
+This research is intended for bachelor students who are interested in:
 
-### Step 4: Develop Questions
-Create specific questions for each section:
+- Financial analysis, Data Science, Artificial Intelligence, and Natural Language Processing.
+- Learning how to create and validate assessment tools, analyze data, and compare AI model performance.
 
-#### 1. Demographics and Background
-- What is your level of experience as an analyst?
-- What industries do you cover?
-- Which tools do you use to analyze documents?
+## Methodology
 
-#### 2. Document Familiarity and Usage
-- How often do you use the following document types? (e.g., Earnings Calls, SEC Filings)
-- Which documents are the most useful for extracting relevant information?
+We will use the following methodologies:
 
-#### 3. Information Extraction Evaluation
-- For **Earnings Calls**, which information do you extract? (e.g., Revenue trends, Tone of management)
-- For **SEC Filings**, which sections do you extract information from?
-- How would you rate your ability to extract relevant information from each document type?
+1. **Questionnaire Design**: Developing questions that assess the ability to extract relevant information from financial documents.
+2. **Document Analysis**: Utilizing Analyst Reports, Earnings Call Transcripts, 10-K, or SEC files as sources for developing questions.
+3. **Verification**: Testing the questionnaire to ensure its validity and reliability.
+4. **Model Evaluation**: Using LLMs (e.g., ChatGPT, Gemini, Llama) to answer the questionnaire and evaluating their performance.
+5. **Benchmarking**: Comparing the performance of different LLMs against each other.
+6. **Reporting**: Writing a detailed report summarizing our conclusions and recommendations.
 
-#### 4. Effectiveness and Challenges
-- How confident are you in the completeness of the information you extract?
-- What challenges do you face in extracting relevant information? (e.g., Volume of content, Complexity of language)
-- Do you face challenges in determining relevance within these documents?
+## Expected Outcomes
 
-#### 5. Open-ended Insights
-- How could the information extraction process be improved?
-- Are there any specific tools or strategies that could enhance the analysis process?
+- A verified questionnaire that assesses the quality of a financial analyst in extracting relevant information.
+- A comparative analysis of different LLMs based on their accuracy in answering the questionnaire.
+- A written research paper or report summarizing key findings.
+- A presentation to share insights with peers and stakeholders.
 
-### Step 5: Choose Question Format
-Use a mix of **multiple-choice questions**, **rating scales** (Likert scales), and **open-ended questions** to gather structured data and personal insights.
+## Tools and Technologies
 
-### Step 6: Pilot the Questionnaire
-- Conduct a pilot survey with a small group of analysts.
-- Gather feedback on clarity and relevance of questions.
-- Adjust the questionnaire based on pilot feedback.
+- **Programming Languages**: Python, R.
+- **Collaboration Tools**: GitHub, Google Drive.
+- **Data Analysis Tools**: Pandas, NumPy, Excel.
+- **Language Models**: ChatGPT, Gemini, Llama.
 
-### Step 7: Distribute the Questionnaire
-- Use online platforms (e.g., Google Forms, Typeform) to distribute the questionnaire.
-- Target a representative sample of analysts from various industries and experience levels.
+## How to Contribute
 
-### Step 8: Analyze Responses
-- Summarize quantitative results (e.g., frequency of document use, rating scores).
-- Perform qualitative analysis on open-ended responses.
-- Cross-reference experience and industry focus with effectiveness ratings.
+Bachelor students are encouraged to contribute by:
 
-### Step 9: Derive Insights and Recommendations
-- Identify which documents and sections are most challenging.
-- Determine areas for improvement in training, processes, or tools.
-- Generate recommendations to optimize document analysis workflows.
+1. **Joining the research discussions** on GitHub Issues.
+2. **Contributing to the code/data** via Pull Requests.
+3. **Sharing insights** from their own background or area of expertise.
 
-### Step 10: Report Findings
-- Summarize key findings to communicate insights to stakeholders.
-- Highlight opportunities to enhance extraction processes, address challenges, and improve document analysis tools.
+## Getting Started
+
+1. Fork the repository.
+2. Clone your fork to your local machine.
+3. Follow the steps in the `setup.md` file to install dependencies and get started.
+
+## Contact
+
+For more information or any questions, feel free to contact [name or email]. We’re excited to have you on board!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the [MIT License](LICENSE).
+
+This project will be conducted at the Chair of Banking and Finance at Goethe University Frankfurt.
+
+---
+
+We believe this research direction will be both educational and impactful, providing students with hands-on experience in financial analysis and AI benchmarking.
+
