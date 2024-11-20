@@ -49,17 +49,19 @@ We will use the following methodologies:
 
 ## How to Contribute
 
-Bachelor students are encouraged to contribute by:
+Bachelor and master students are encouraged to contribute by:
 
-1. **Joining the research discussions** on GitHub Issues.
-2. **Contributing to the code/data** via Pull Requests.
-3. **Sharing insights** from their own background or area of expertise.
+1. Developming the extensive and creative **industry-specific list of questions** to test the quality of answers provided by different LLMs enhanced with RAG alorithm comparing with initial respective LLMs. As an example, a list of questions from the CFA Level III exam can be considered.
+2. Proposing the **adjustments for the codes** with the existing RAG algorithms that would make the process more efficient.
+3. Being active in the **discussion forum in the GitHub classromm**.
 
 ## Getting Started
 
-1. Fork the repository.
-2. Clone your fork to your local machine.
-3. Follow the steps in the `setup.md` file to install dependencies and get started.
+1. Read the readme files in the "GPT_RAG", "Gemini_RAG", and "Llama_RAG" folders.
+2. Follow the instructions from the .ipynb files in the respective folders. In one of the first steps there is a link that will open the code in colab.
+3. Execute the code cell by cell. Ask ChatGPT to help if you encounter an error.
+4. You will have to load the data to the "data" folder that will be created in colab. The analyst reports are available in Dropbox (please find the links in the Excel file with the Topics Allocation). You will have to download SEC filings and Corporate Eranings Calls in the data room. Please follow the instructions.
+5. Insert the questions you created to the respective cells of the code and save the textual output. 
 
 ## Contact
 
