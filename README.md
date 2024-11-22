@@ -59,13 +59,13 @@ Bachelor and master students are encouraged to contribute by:
 
 1. Read the readme files in the "GPT_RAG", "Gemini_RAG", and "Llama_RAG" folders.
 2. Follow the instructions from the .ipynb files in the respective folders. In one of the first steps there is a link that will open the code in colab.
-3. Execute the code cell by cell. Ask ChatGPT to help if you encounter an error.
+3. Execute the code cell by cell. Ask ChatGPT or Manú to help if you encounter an error.
 4. You will have to load the data to the "data" folder that will be created in colab. The analyst reports are available in Dropbox (please find the links in the Excel file with the Topics Allocation). You will have to download SEC filings and Corporate Eranings Calls in the data room. Please follow the instructions.
 5. Insert the questions you created to the respective cells of the code and save the textual output. 
 
 ## Contact
 
-For more information or any questions, feel free to contact [name or email]. We’re excited to have you on board!
+For more information or any questions, feel free to contact Aleksandra Bakhareva [a.bakhareva@finance.uni-frankfurt.de] or Manú Weissel [manu.weissel@finance.uni-frankfurt.de]. We’re excited to have you on board!
 
 ## License
 
